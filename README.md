@@ -1,4 +1,4 @@
-# CCNA-Security-210-260-Certification-Guide
+# CCNA Security 210-260 Certification Guide
 
 <a href="https://www.packtpub.com/networking-and-servers/ccna-security-210-260-certification-guide?utm_source=github&utm_medium=repository&utm_campaign=9781787128873"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/B06184_newcover.png" alt="CCNA Security 210-260 Certification Guide" height="256px" align="right"></a>
 

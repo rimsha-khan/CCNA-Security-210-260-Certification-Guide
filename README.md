@@ -61,10 +61,6 @@ Michael Vinod is a freelance IT trainer and consultant specializing in Cisco rou
 **Vijay Anandh**
 Vijay Anandh is an IT consultant and public speaker specializing in Cisco routing and switching, security, and F5 load balancer technologies. He has 9 years of combined experience as a training consultant and network architect.
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
-
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 

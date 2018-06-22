@@ -2,7 +2,7 @@
 
 <a href="Packt UTM URL of the Book"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/B06184_newcover.png" alt="CCNA Security 210-260 Certification Guide" height="256px" align="right"></a>
 
-This is the code repository for [CCNA Security 210-260 Certification Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [CCNA Security 210-260 Certification Guide](https://search.packtpub.com/?query=%09CCNA%20Security%20210-260%20Certification%20Guide&refinementList%5Breleased%5D%5B0%5D=Available), published by Packt.
 
 **Build your knowledge of network security and pass your CCNA Security exam (210-260)**
 

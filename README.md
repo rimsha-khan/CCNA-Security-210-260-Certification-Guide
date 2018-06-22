@@ -9,12 +9,12 @@ This is the code repository for [CCNA Security 210-260 Certification Guide](http
 ## What is this book about?
 With CCNA Security certification, a network professional can demonstrate the skills required to develop security infrastructure, recognize threats and vulnerabilities to networks, and mitigate security threats. The CCNA Security 210-260 Certification Guide will help you grasp the fundamentals of network security and prepare you for the Cisco CCNA Security Certification exam.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-*Grasp the fundamentals of network security
-*Configure routing protocols to secure network devices
-*Mitigate different styles of security attacks using Cisco devices
-*Explore the different types of firewall technologies
-*Discover the Cisco ASA functionality and gain insights into some advanced ASA configurations
+This book covers the following exciting features:
+* Grasp the fundamentals of network security
+* Configure routing protocols to secure network devices
+* Mitigate different styles of security attacks using Cisco devices
+* Explore the different types of firewall technologies
+* Discover the Cisco ASA functionality and gain insights into some advanced ASA configurations
 
 If you feel this book is for you, get your [CCNA-Security-210-260-Certification-Guide](https://www.amazon.com/dp/1787128873) today!
 
@@ -44,9 +44,8 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1-17        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
-### Related products <Paste books from the Other books you may enjoy section>
+### Related products 
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
